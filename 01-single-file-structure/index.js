@@ -84,4 +84,4 @@ app.use(
     })
 );
 app.listen(3001);
-console.log("it woks! go http://looalhost:3001/graphql");
+console.log("it woks! go http://localhost:3001/graphql");
